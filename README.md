@@ -10,7 +10,7 @@
     <h1>This is a header.</h1> <!-- <h1> to <h6> Headings from most important to least important. -->
     <p>This is a paragraph.</p> <!-- <p></p> - A paragraph of text. -->
     <a href="https://github.com/tcfordesign">A link</a> <!-- <a></a> - A hyperlink to another page. -->
-    <img src="" alt="Site logo"> <!-- An image with alternative text. -->
+    <img src="https://drive.google.com/file/d/1ERMoU6CGePCeJEAmCJLIQbDGZs_ItBWW/view?usp=drive_link" alt="tcfordesign Logo"> <!-- An image with alternative text. -->
   </body>
 </html>
 
