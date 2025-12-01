@@ -13,6 +13,5 @@
     <img src="" alt="Site logo"> <!-- An image with alternative text. -->
   </body>
 </html>
-![TC](https://github.com/user-attachments/assets/81c4ad59-e82e-4c53-8f42-d13ce7cf9e34)
 
 
